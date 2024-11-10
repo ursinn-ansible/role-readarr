@@ -1,0 +1,10 @@
+---
+role_readarr_image: 'lscr.io/linuxserver/readarr'
+role_readarr_container: 'readarr'
+role_readarr_puid: '1000'
+role_readarr_pgid: '1000'
+role_readarr_tz: 'Europe/Zurich'
+role_readarr_dir: '/opt/app-readarr'
+role_readarr_network: 'app-network'
+
+role_readarr_media_dir: '/opt/media'
