@@ -1,5 +1,5 @@
 ---
-role_readarr_image: 'lscr.io/linuxserver/readarr'
+role_readarr_image: 'lscr.io/linuxserver/readarr:develop'
 role_readarr_container: 'readarr'
 role_readarr_puid: '1000'
 role_readarr_pgid: '1000'
